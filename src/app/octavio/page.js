@@ -4,7 +4,8 @@ const page = () => {
   return (
     <div>
         <h1>Quien jala unas del Counter Strike?</h1>
-        <img src="https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/social/cs2.jpg" ></img>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1stQ6r0VPKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     </div>
   )
 }
