@@ -9,8 +9,7 @@ const elGutyPambolero = () => {
         <h1>
             El Chaquito ya metio un golazo
         </h1>
-        <img src="https://storage.googleapis.com/static.elsoldemexico.com.mx/elesto/2023/03/Santi-Gimenez-marco-el-primer-minuto-de-juego.-770x450.jpg">
-        </img> 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{0bt0HjK2pOA}" frameborder="0" allowfullscreen></iframe> 
 
     </div>
   )
